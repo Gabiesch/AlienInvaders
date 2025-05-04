@@ -1,0 +1,25 @@
+Levels
+For the different levels we use different alien settings. 
+This includes the rows of aliens (lets try and start the aliens aboven the screen.)
+The speed of the aliens
+How much health they have
+Maybe bonus aliens that come down in a different pattern.
+
+Bonus items drop on alien death
+Positive;
+- 1 raket
+- 5 seconds ship boost
+- 1 bigger bullets
+Negative;
+- Faster aliens 5s
+- More alien_bullets
+
+
+Store
+I would like a store to be able to upgrade the ship
+Items in store: 
+- Ship speed
+- bullet max amount
+- bullet speed
+- raket bomb (like fireworks)
+- shield (1 hit)
